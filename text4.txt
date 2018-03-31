@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is B6F0-B938
+
+ Directory of C:\Users\kiran\eclipse-workspace\GitPractice
+
+03/31/2018  06:12 PM    <DIR>          .
+03/31/2018  06:12 PM    <DIR>          ..
+03/31/2018  05:20 PM                 0 Index.html.txt
+03/31/2018  05:20 PM                19 Text1.txt
+03/31/2018  05:58 PM               466 text2.txt
+03/31/2018  06:09 PM               516 text3.txt
+03/31/2018  06:12 PM                 0 text4.txt
+               5 File(s)          1,001 bytes
+               2 Dir(s)  902,115,803,136 bytes free
